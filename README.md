@@ -1,3 +1,1 @@
 # ProductInfoCard
-
-#testing git repos
